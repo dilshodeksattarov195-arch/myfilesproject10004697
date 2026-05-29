@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerspdate",
+        "uuid": 2038498,
+        "checksum": "nc2r0r"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
